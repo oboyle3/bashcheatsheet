@@ -1,0 +1,8 @@
+bash cheatsheet
+
+1) I want to case in-sensitivly search for a key word
+
+2) I want to append a file with some text
+echo <word> >> file.txt
+
+3) only print the line that matches
